@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ssalman23
 - 👀 I’m interested in learning new Technologies
 - 🌱 I’m currently learning Java and ABAP
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on New Projects
 - 📫 How to reach me salmansheikh99@gmail.com
 
 <!---
